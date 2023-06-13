@@ -1,3 +1,4 @@
+
 export default class StoreLoca {
     static getTasks = () => {
       let tasks;
